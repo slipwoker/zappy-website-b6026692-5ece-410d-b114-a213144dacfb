@@ -1,0 +1,66 @@
+# ‏סטארטאפ ירין — Generative Engine Optimization Map
+
+> A startup company looking to build a landing page with user registration functionality (phone number and name), featuring images throughout the site. The focus is on lead generation and sign-ups.
+
+---
+
+## Pages
+
+### בית
+https://-b6026692.zappy5.app
+סטארטאפ ירין מזמין אתכם להירשם עכשיו עם שם ומספר טלפון ולהיות חלק מהדור הבא של חברות טכנולוגיות. גלו תמונות מעוררות השראה והתחילו את המסע שלכם עוד היום!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b6026692.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b6026692.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b6026692.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-b6026692.zappy5.app
+- Endpoint: https://-b6026692.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ‏סטארטאפ ירין
+A startup company looking to build a landing page with user registration functionality (phone number and name), featuring images throughout the site. The focus is on lead generation and sign-ups.
+
+## Target Audience
+- מאמצי טכנולוגיה מוקדמים
+- בעלי עסקים קטנים
+- יזמים צעירים
+
+## Industry
+Technology / Startup
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b6026692.zappy5.app/sitemap.xml
+- Robots: https://-b6026692.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b6026692.zappy5.app/llms-full.txt
