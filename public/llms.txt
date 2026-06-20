@@ -28,7 +28,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: yarinsadik5@gamil.com
+- Phone: 0549853321
+- Phone (tel): tel:0549853321
 
 ### Contact form
 - URL: https://example.com
