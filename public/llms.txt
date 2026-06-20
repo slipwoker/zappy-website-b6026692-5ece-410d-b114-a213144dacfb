@@ -31,6 +31,7 @@ Information about WCAG compliance and accessibility features.
 - Email: yarinsadik5@gamil.com
 - Phone: 0549853321
 - Phone (tel): tel:0549853321
+- Address: בית שמש, ארלוזרוב, ישראל, 5656543, ישראל
 
 ### Contact form
 - URL: https://startup-yarin.zappy5.app
